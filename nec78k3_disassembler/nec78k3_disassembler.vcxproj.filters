@@ -5,6 +5,10 @@
     <ClInclude Include="Opcodes.h" />
     <ClInclude Include="Operand.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="File.h" />
+    <ClInclude Include="Types.h" />
+    <ClInclude Include="Opcode.h" />
+    <ClInclude Include="OpcodeInstance.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="nec78k3_disassembler.cpp" />

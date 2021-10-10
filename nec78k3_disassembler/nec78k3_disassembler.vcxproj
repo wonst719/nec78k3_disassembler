@@ -142,10 +142,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="File.h" />
     <ClInclude Include="Mnemonic.h" />
+    <ClInclude Include="Opcode.h" />
+    <ClInclude Include="OpcodeInstance.h" />
     <ClInclude Include="Opcodes.h" />
     <ClInclude Include="Operand.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="Types.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="nec78k3_disassembler.cpp" />
