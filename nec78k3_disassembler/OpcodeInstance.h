@@ -1,4 +1,5 @@
 #pragma once
+
 struct OpcodeInstance
 {
 	unsigned int pos;
